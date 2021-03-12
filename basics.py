@@ -7,3 +7,6 @@ b = np.logspace(-1, 2, 3)
 
 c = a + b
 
+
+hatalmas
+baromsag

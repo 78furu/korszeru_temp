@@ -5,3 +5,5 @@ Saját beadandó projekt korszerű órára.
 illetve 
 
 2021. 03. 12. (péntek)
+
+elrontottam

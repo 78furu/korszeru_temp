@@ -1,10 +1,10 @@
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
+import numpy as np # for computation
+import matplotlib.pyplot as plt # for plotting
+import pandas as pd # for data analysis
 
-a = np.linspace(11, 21, 10)
-b = np.logspace(-1, 2, 3)
-
+a = np.linspace(11, 21, 10) # vector1
+b = np.logspace(-1, 2, 3) # vector2
+ # summing
 c = a+ b
 
 

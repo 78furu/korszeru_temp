@@ -8,6 +8,6 @@ b = np.logspace(-1, 2, 3) # vector2
 c = a+ b
 
 
-b = a - c
+b = a - c # subtract
 
 d = np.array([0, 1, 2 ])
